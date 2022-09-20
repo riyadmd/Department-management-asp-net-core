@@ -1,0 +1,17 @@
+E:\AspNetProjects\DepartmentManagement\DepartmentManagement.Database\bin\Debug\net6.0\DepartmentManagement.Database.deps.json
+E:\AspNetProjects\DepartmentManagement\DepartmentManagement.Database\bin\Debug\net6.0\DepartmentManagement.Database.runtimeconfig.json
+E:\AspNetProjects\DepartmentManagement\DepartmentManagement.Database\bin\Debug\net6.0\DepartmentManagement.Database.dll
+E:\AspNetProjects\DepartmentManagement\DepartmentManagement.Database\bin\Debug\net6.0\DepartmentManagement.Database.pdb
+E:\AspNetProjects\DepartmentManagement\DepartmentManagement.Database\bin\Debug\net6.0\DepartmentManagement.Models.dll
+E:\AspNetProjects\DepartmentManagement\DepartmentManagement.Database\bin\Debug\net6.0\DepartmentManagement.Models.pdb
+E:\AspNetProjects\DepartmentManagement\DepartmentManagement.Database\obj\Debug\net6.0\DepartmentManagement.Database.csproj.AssemblyReference.cache
+E:\AspNetProjects\DepartmentManagement\DepartmentManagement.Database\obj\Debug\net6.0\DepartmentManagement.Database.GeneratedMSBuildEditorConfig.editorconfig
+E:\AspNetProjects\DepartmentManagement\DepartmentManagement.Database\obj\Debug\net6.0\DepartmentManagement.Database.AssemblyInfoInputs.cache
+E:\AspNetProjects\DepartmentManagement\DepartmentManagement.Database\obj\Debug\net6.0\DepartmentManagement.Database.AssemblyInfo.cs
+E:\AspNetProjects\DepartmentManagement\DepartmentManagement.Database\obj\Debug\net6.0\DepartmentManagement.Database.csproj.CoreCompileInputs.cache
+E:\AspNetProjects\DepartmentManagement\DepartmentManagement.Database\obj\Debug\net6.0\DepartmentManagement.Database.csproj.CopyComplete
+E:\AspNetProjects\DepartmentManagement\DepartmentManagement.Database\obj\Debug\net6.0\DepartmentManagement.Database.dll
+E:\AspNetProjects\DepartmentManagement\DepartmentManagement.Database\obj\Debug\net6.0\refint\DepartmentManagement.Database.dll
+E:\AspNetProjects\DepartmentManagement\DepartmentManagement.Database\obj\Debug\net6.0\DepartmentManagement.Database.pdb
+E:\AspNetProjects\DepartmentManagement\DepartmentManagement.Database\obj\Debug\net6.0\DepartmentManagement.Database.genruntimeconfig.cache
+E:\AspNetProjects\DepartmentManagement\DepartmentManagement.Database\obj\Debug\net6.0\ref\DepartmentManagement.Database.dll
